@@ -39,11 +39,9 @@ Aspiring Software Developer & AI/ML enthusiast focused on data analysis, machine
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksaqibkhan110-glitch&show_icons=true&theme=tokyonight" alt="Saqib's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaqibkhan110-glitch&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sksaqibkhan110-glitch&show_icons=true&theme=tokyonight" alt="Saqib's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sksaqibkhan110-glitch&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
-
----
 
 ### 📬 Contact Me
 - ✉️ **Email:** sksaqibkhan110@gmail.com
