@@ -45,6 +45,13 @@ Aspiring Software Developer & AI/ML enthusiast focused on data analysis, machine
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sksaqibkhan110-glitch&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
+
+### 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksaqibkhan110-glitch/sksaqibkhan110-glitch/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sksaqibkhan110-glitch/sksaqibkhan110-glitch/output/github-snake-dark.svg" />
+</picture>
 ### 📬 Contact Me
 - ✉️ **Email:** sksaqibkhan110@gmail.com
 
