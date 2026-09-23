@@ -52,8 +52,7 @@ Aspiring Software Developer & AI/ML enthusiast focused on data analysis, machine
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksaqibkhan110-glitch/sksaqibkhan110-glitch/output/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sksaqibkhan110-glitch/sksaqibkhan110-glitch/output/github-snake-dark.svg" />
 </picture>
-### 📬 Contact Me
-- ✉️ **Email:** sksaqibkhan110@gmail.com
+### 📬 Contact Me- ✉️ **Email:** sksaqibkhan110@gmail.com
 
 
 
